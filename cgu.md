@@ -1,4 +1,4 @@
-**#TERMS OF SERVICE (TOS) – MarginTrack#**
+**##TERMS OF SERVICE (TOS) – MarginTrack##**
 Last Updated: [Date]
 
 **1. Service Description**
