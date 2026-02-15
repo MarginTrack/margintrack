@@ -1,3 +1,3 @@
-https://margintrack.github.io/margintrack/privacy
+[Privacy](https://margintrack.github.io/margintrack/privacy)
 
-https://margintrack.github.io/margintrack/cgu
+[CGU](https://margintrack.github.io/margintrack/cgu)
