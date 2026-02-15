@@ -1,4 +1,4 @@
-**TERMS OF SERVICE (TOS) – MarginTrack**
+## **TERMS OF SERVICE (TOS) – MarginTrack**
 Last Updated: [Date]
 
 **1. Service Description**
@@ -30,7 +30,7 @@ These Terms of Service are governed by French law. Any dispute shall be brought 
 
 ------------------------------
 
-**CONDITIONS GÉNÉRALES D’UTILISATION (CGU) – MarginTrack**
+## **CONDITIONS GÉNÉRALES D’UTILISATION (CGU) – MarginTrack**
 Dernière mise à jour : [Date]
 
 **1. Objet du Service**
