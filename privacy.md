@@ -7,9 +7,9 @@ Published by VibeCore
 
 - Legal form: Sole proprietorship (Auto-entrepreneur / EI)
 
-- Registered Office: 112 Impasse Terre des Noyers, 33220 Saint-Andr\u{e9}-et-Appelles, France
+- Registered Office: 112 Impasse Terre des Noyers, 33220 Saint-André-et-Appelles, France
 
-- Registration: SIRET [NUMBER] \u{2013} Registered in [CITY]
+- Registration: SIRET [NUMBER] – Registered in [CITY]
 
 - Contact Email: contact.margintrack@proton.me
 
@@ -36,7 +36,7 @@ Your privacy is our priority:
 All intellectual property rights to the Application and its content are the exclusive property of VibeCore. Any unauthorized reproduction is prohibited.
 
 **4. Liability**<br>
-VibeCore cannot be held liable for any errors, omissions, or the unavailability of certain features due to the user\u{2019}s device or technical limitations.
+VibeCore cannot be held liable for any errors, omissions, or the unavailability of certain features due to the user's device or technical limitations.
 
 -------------------------------------
 
