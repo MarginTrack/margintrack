@@ -9,7 +9,7 @@ Published by VibeCore
 
 - Registered Office: 112 Impasse Terre des Noyers, 33220 Saint-André-et-Appelles, France
 
-- Registration: SIRET [NUMBER] – Registered in [CITY]
+- Registration: SIRET 84080910700021 – Registered in Libourne
 
 - Contact Email: contact.margintrack@proton.me
 
@@ -51,7 +51,7 @@ VibeCore cannot be held liable for any errors, omissions, or the unavailability 
 
 - Siège social : 112 Impasse Terre des Noyers, 33220 Saint-André-et-Appelles, France
 
-- Immatriculation : SIRET [NUMERO] – RCS/RNE de [VILLE]
+- Immatriculation : SIRET 84080910700021 – RCS de Libourne
 
 - E-mail de contact : contact.margintrack@proton.me
 
