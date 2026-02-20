@@ -1,5 +1,5 @@
 ## **TERMS OF SERVICE (TOS) – MarginTrack**
-These Terms of Use are provided by VibeCore, publisher of the MarginTrack application.<br>
+These Terms of Service are provided by VibeCore, publisher of the MarginTrack application.<br>
 Last Updated: [Date]
 
 **1. Service Description**<br>
