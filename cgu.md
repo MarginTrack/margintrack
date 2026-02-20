@@ -1,6 +1,6 @@
 ## **TERMS OF SERVICE (TOS) – MarginTrack**
 These Terms of Service are provided by VibeCore, publisher of the MarginTrack application.<br>
-Last Updated: [Date]
+Last Updated: 02/20/2026
 
 **1. Service Description**<br>
 MarginTrack is a "Job Costing" mobile tool designed to track construction site expenses and real-time profitability. This application is a decision-support tool and does not replace certified accounting software.
@@ -33,7 +33,7 @@ These Terms of Service are governed by French law. Any dispute shall be brought 
 
 ## **CONDITIONS GÉNÉRALES D’UTILISATION (CGU) – MarginTrack**
 Les présentes CGU sont proposées par l'entreprise VibeCore, éditrice de l'application MarginTrack.<br>
-Dernière mise à jour : [Date]
+Dernière mise à jour : 20/02/2026
 
 **1. Objet du Service**<br>
 L’application MarginTrack est un outil de "Job Costing" destiné à suivre les dépenses de chantier et la rentabilité en temps réel. L'application est un outil d'aide à la décision et ne remplace en aucun cas un logiciel de comptabilité certifié.
