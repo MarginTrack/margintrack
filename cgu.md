@@ -1,5 +1,5 @@
 ## **TERMS OF SERVICE (TOS) – MarginTrack**
-These Terms of Use are provided by VibeCore, publisher of the MarginTrack application.
+These Terms of Use are provided by VibeCore, publisher of the MarginTrack application.<br>
 Last Updated: [Date]
 
 **1. Service Description**<br>
@@ -32,7 +32,7 @@ These Terms of Service are governed by French law. Any dispute shall be brought 
 ------------------------------
 
 ## **CONDITIONS GÉNÉRALES D’UTILISATION (CGU) – MarginTrack**
-Les présentes CGU sont proposées par l'entreprise VibeCore, éditrice de l'application MarginTrack.
+Les présentes CGU sont proposées par l'entreprise VibeCore, éditrice de l'application MarginTrack.<br>
 Dernière mise à jour : [Date]
 
 **1. Objet du Service**<br>
